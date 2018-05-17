@@ -40,8 +40,8 @@ sysinfo.txt
 # Added by me
 
 
-Assets/Audio
-Assets/Prefabs
-Assets/Sprites
-Assets/Scenes
+Assets/Audio*
+Assets/Prefabs*
+Assets/Sprites*
+Assets/Scenes*
 ProjectSettings/UnityConnectSettings.asset # binary file
